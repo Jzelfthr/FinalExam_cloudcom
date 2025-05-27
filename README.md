@@ -12,7 +12,9 @@ Model and transform data into a star schema for a data warehouse
 Build an interactive Streamlit dashboard to visualize sales performance
 
 🗃️ **Data Sources**
+
 CRM:
+
 cust_info.csv – customer details
 
 prd_info.csv – product catalog
@@ -20,6 +22,7 @@ prd_info.csv – product catalog
 sales_details.csv – sales transactions
 
 ERP:
+
 CUST_AZ12.csv – ERP customer records
 
 LOC_A101.csv – location metadata
