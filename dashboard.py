@@ -17,12 +17,12 @@ def load_assets():
     """Load CSS and JavaScript files"""
     try:
         # Load CSS
-        css_file = STATIC_DIR / "neo-styles.css"
+        css_file = STATIC_DIR / "Neo-Styles.css"
         with open(css_file) as f:
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
         
         # Load JavaScript
-        js_file = STATIC_DIR / "neo-scripts.js"
+        js_file = STATIC_DIR / "Neo-Scripts.js"
         with open(js_file) as f:
             st.components.v1.html(
                 f"""<script>{f.read()}</script>""",
