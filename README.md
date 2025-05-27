@@ -60,4 +60,4 @@ Downloadable report
 
 
 
-**Render link** : 
+**Streamlit link** : 
