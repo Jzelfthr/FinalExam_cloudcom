@@ -1,15 +1,3 @@
-End-to-End Data Warehouse Project (
-	Data Extraction, Data Transformation ,Data Loading , Reporting/Dashboard
-)
-
-
-Minimum Requirements:
-
-Staging Area
-Datawarehouse
-Streamlit dashboard
-Project repo( add me as collaborator)
-
 pandas==2.0.3
 sqlalchemy==2.0.19
 streamlit==1.24.0
