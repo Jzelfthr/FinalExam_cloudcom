@@ -1,7 +1,8 @@
 # 📦 Data Warehouse Project
-A complete ETL + Data Warehousing + Dashboard pipeline for CRM and ERP datasets using Python, PostgreSQL, and Streamlit.
 
-🚀 Project Overview
+**A complete ETL + Data Warehousing + Dashboard pipeline for CRM and ERP datasets using Python, PostgreSQL, and Streamlit.**
+
+🚀 **Project Overview**
 This project demonstrates a full-stack data pipeline, where we:
 
 Extract and load CRM and ERP flat files into a PostgreSQL staging area
@@ -10,7 +11,7 @@ Model and transform data into a star schema for a data warehouse
 
 Build an interactive Streamlit dashboard to visualize sales performance
 
-🗃️ Data Sources
+🗃️ **Data Sources**
 CRM:
 cust_info.csv – customer details
 
@@ -25,7 +26,7 @@ LOC_A101.csv – location metadata
 
 PX_CAT_G1V2.csv – product categories
 
-💡 Features
+💡 **Features**
 ✅ ETL pipeline for multiple data sources
 
 ✅ Automated data cleaning and transformation
@@ -36,7 +37,7 @@ PX_CAT_G1V2.csv – product categories
 
 ✅ Exportable CSV reports
 
-📊 Dashboard Preview
+📊 **Dashboard Preview**
 You can explore:
 
 Total revenue, customers, and quantity sold
@@ -47,4 +48,4 @@ Optional customer filtering
 
 Downloadable report
 
-Render link : 
+**Render link** : 
